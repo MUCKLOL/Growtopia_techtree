@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chandelier",
+        "components": [
+            {"name": "Dirt Seed", "quantity": 1},
+            {"name": "Dirt Block", "quantity": 1}
+        ]
+    },
+    {
+        "name": "Dirt Block",
+        "components": []
+    },
+    {
+        "name": "Dirt Seed",
+        "components": []
+    }
+]
